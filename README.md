@@ -3,15 +3,13 @@ Last updated: 2020-10-19
 ------------------------------------------------------------------------------------------------------------------------
 
 General description
-	CoHRT: Corpus of Human-Robot Touch , is a collection containing 14642 gesture captures of 12 different Human-Robot touch gestures. 
+	TacAct, is a collection containing 24000 gesture captures of 12 different Human-Robot touch gestures. 
 	The gestures were performed in right and left hand, on a pressure sensor grid wrapped around a mannequin arm. 
 
-	This dataset was collected by Peng W, Hebei University of Technology.  
-
-	For more information on the collection of the data set please refer to: 
+	This dataset was collected by Peng W, Dicai Chen, Hebei University of Technology.  
 
 Data recording
-	Data was recorded june 2020.
+	Data was recorded October 2020.
 	Recorded gesture captures: 12 gestures * 40 repetitions * 50 subjects = 24000 touch gestures in total
 
 Data structure 
